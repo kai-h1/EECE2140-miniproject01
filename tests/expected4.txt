@@ -1,1 +1,1 @@
-Cannot be below absolute zero
+Enter a temperature to convert in celsius or fahrenheit: 460 F = 237.778 C.

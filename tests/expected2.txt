@@ -1,1 +1,1 @@
--100 C = -148 F
+Enter a temperature to convert in celsius or fahrenheit: -100 C = -148 F.

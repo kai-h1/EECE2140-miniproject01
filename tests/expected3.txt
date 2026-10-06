@@ -1,1 +1,1 @@
-Cannot be below absolute zero
+Enter a temperature to convert in celsius or fahrenheit: 274 C = 525.2 F.
