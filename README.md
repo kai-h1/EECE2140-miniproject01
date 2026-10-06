@@ -29,4 +29,5 @@
 
 - Cannot go to or below absolute zero
 - Can only receive numeric inputs
+- this program reads one temperature at a time
   
