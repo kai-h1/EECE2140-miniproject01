@@ -1,1 +1,1 @@
-Enter a temperature to convert in celsius or fahrenheit: 30 C = 86 F.
+Enter a temperature to convert in celsius or fahrenheit: 30
