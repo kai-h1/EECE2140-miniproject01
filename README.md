@@ -25,7 +25,7 @@
 - Compile the program using g++ src/main.cpp -o problem1
 - Test converting 0 Celsius to Fahrenheit and from 32 Fahrenheit to Celsius
 
-#Limitations
+# Limitations
 
 - Cannot go to or below absolute zero
 - Can only receive numeric inputs
